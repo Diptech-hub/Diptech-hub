@@ -45,12 +45,12 @@ I'm Diptech, a passionate **Front-End Developer** with a keen eye for creating v
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 
-## 🌱 Currently Learning
+<!--- ## 🌱 Currently Learning
 I am continuously evolving my skill set and diving deeper into:
 
 - Advanced React patterns and state management techniques.
 - Performance optimization and best practices in web development.
-- Building and deploying full-stack applications with Next.js.
+- Building and deploying full-stack applications with Next.js. -->
 
 
 ## 📈 GitHub Stats
@@ -63,9 +63,9 @@ I am continuously evolving my skill set and diving deeper into:
 
 I’m always interested in hearing about new opportunities, projects, and collaborations. Feel free to reach out to me through any of the following channels:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/oladipupo-babayemi/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/DipTech_)
-- [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:oladipupobabayemi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/oladipupo-babayemi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/DipTech_)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:oladipupobabayemi@gmail.com)
 
 
 
